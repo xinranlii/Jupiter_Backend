@@ -1,5 +1,5 @@
 # Jupiter_Backend
-This project called Jupiter I did in Spring 2021 is a personalized twitch resources recommendation engine. 
+This project called Jupiter I did in Spring 2021 with the help of Laioffer Inc. is a personalized twitch resources recommendation engine. 
 The following can help to explain the description of the porject:
 1. Designed and built a full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations. 
 2. Built a web page with rich + user friendly experience using React and Ant Design
